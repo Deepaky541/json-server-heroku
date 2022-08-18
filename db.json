@@ -1,108 +1,24 @@
 {
-    "vowel":[
-        {
-            "vow":"A",
-            "count":1,
-            "scores":1
-        },
-        {
-          "vow": "O",
-          "count": 1,
-          "scores": 1
-        },
-        {
-          "vow": "E",
-          "count": 1,
-          "scores": 1
-        },
-        {
-          "vow": "I",
-          "count": 1,
-          "scores": 1
-        },
-        {
-          "vow": "U",
-          "count": 1,
-          "scores": 1
-        }
-    ],
-    "consonant":[
-      {
-        "con": "B",
-        "count": 1,
-        "scores": 3
-      },
-      {
-        "con": "C",
-        "count": 1,
-        "scores": 3
-      },
-      {
-        "con": "L",
-        "count": 1,
-        "scores": 1
-      },
-      {
-        "con": "N",
-        "count": 1,
-        "scores": 1
-      },
-      {
-        "con": "S",
-        "count": 1,
-        "scores": 1
-      },
-      {
-        "con": "T",
-        "count": 1,
-        "scores": 1
-      },{
-        "con": "R",
-        "count": 1,
-        "scores": 1
-      },
-      {
-        "con": "D",
-        "count": 1,
-        "scores": 2
-      },
-      {
-        "con": "G",
-        "count": 1,
-        "scores": 2
-      },
-      {
-        "con": "M",
-        "count": 1,
-        "scores": 3
-      },
-      {
-        "con": "P",
-        "count": 1,
-        "scores": 3
-      },
-      {
-        "con": "F",
-        "count": 1,
-        "scores": 4
-      },
-      {
-        "con": "H",
-        "count": 1,
-        "scores": 4
-      },
-      {
-        "con": "V",
-        "count": 1,
-        "scores": 4
-      },{
-        "con": "W",
-        "count": 1,
-        "scores": 4
-      },{
-        "con": "Y",
-        "count": 1,
-        "scores": 4
-      }
-    ]
+  "employees": [
+    {
+      "id": 1,
+      "name": "deepak",
+      "age": 24,
+      "gender": "male",
+      "department": "It",
+      "salary": "1000000",
+      "contact": 9891529396,
+      "url": "https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-male-avatar-simple-cartoon-design-png-image_1934458.jpg"
+    },
+    {
+      "id": 2,
+      "name": "puneet",
+      "age": 24,
+      "gender": "male",
+      "department": "It",
+      "salary": "1000000",
+      "contact": 9891529396,
+      "url": "https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-male-avatar-simple-cartoon-design-png-image_1934458.jpg"
+    }
+  ]
 }
